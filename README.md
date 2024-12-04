@@ -5,17 +5,7 @@ Rajalakshmi Institute of Technology
 
 💻 SKILLS:
 ---
-Python, Java, MySQL, HTML, CSS
-
-🚀 PROJECTS:
----
-Developed a Library Management System with Python and MySQL
-
-Building the same in Java
-
-📈 LEETCODE:
----
-Actively solving problems to improve coding skills.
+Javascript,Python, Java, MySQL, HTML,CSS,React
 
 🧑‍💻 LEARNING GOALS:
 ---
